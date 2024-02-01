@@ -14,5 +14,6 @@ https://raymond-arthur.shinyapps.io/shiny-treediagram/
 
 
 Standard and t distribution interactive plots:
+
 https://raymond-arthur.shinyapps.io/shiny-norm-t-distribution/
 ![image](https://github.com/raymond-arthur/shinystats/assets/144548341/7ffbd918-9701-4aa1-8a85-aadbc97a88ad)
