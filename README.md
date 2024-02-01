@@ -11,3 +11,7 @@ Tree diagram creator:
 
 https://raymond-arthur.shinyapps.io/shiny-treediagram/
 ![image](https://github.com/raymond-arthur/shinystats/assets/144548341/3eda03b6-5ce6-4aff-9752-f93c38823532)
+
+
+Standard and t distribution interactive plots:
+https://raymond-arthur.shinyapps.io/shiny-norm-t-distribution/
