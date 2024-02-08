@@ -1,6 +1,6 @@
 Various shiny apps for stats:
 
-Sum of n dice simulated y times:
+Sum of n dice simulated y times (the Central Limit Theorem):
 
 https://raymond-arthur.shinyapps.io/shiny-diceroll/
 
